@@ -1,0 +1,12 @@
+{
+  "id": "typora-community-plugin.updated-footer",
+  "name": "Updated Footer",
+  "description": "Show a clean last-updated footer at the bottom of editor.",
+  "author": "Runwang Guo",
+  "authorUrl": "https://github.com/RunwangGuo",
+  "repo": "",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "minCoreVersion": "2.0.0-beta.31",
+  "platforms": ["win32", "linux", "darwin"]
+}
