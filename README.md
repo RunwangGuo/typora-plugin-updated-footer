@@ -1,6 +1,6 @@
 # Updated Footer
 
-简体中文 | [English](./README.md)
+简体中文
 
 在 Typora 编辑区底部显示“最后更新于”时间，专注稳定显示，不修改正文和 front matter。
 
